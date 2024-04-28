@@ -1,0 +1,1 @@
+The amount of work for this class far outweighs the amount of knowledge gained. Please consider reducing this, since this class is not that interesting or valuable (how many people would take the class if it wasn't required?).
