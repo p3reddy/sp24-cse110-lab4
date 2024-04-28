@@ -1,0 +1,2 @@
+1. The bug is that num1 and num2 are strings because the value from the form field is a string, so result is the string concatenation of num1 and num2.
+2. I used the Number() function to cast num1 and num2 to numeric values.
